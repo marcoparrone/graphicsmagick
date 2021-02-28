@@ -20,7 +20,7 @@ git clone git@github.com:marcoparrone/graphicsmagick.git
 
 cd graphicsmagick
 
-make build
+make
 
 ## Usage
 
