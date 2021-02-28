@@ -10,7 +10,7 @@ This is a convenient way of using GraphicsMagick without installing it and all o
 
 podman or docker are needed.
 
-I tested this scripts on CentOS Stream release 8 with podman.
+I tested these scripts on CentOS Stream release 8 with podman.
 
 If you use docker, replace docker=podman with docker=docker in the Makefile.
 
