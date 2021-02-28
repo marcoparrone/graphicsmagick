@@ -30,7 +30,7 @@ Add in your ~/.bash_aliases or in your ~/.bashrc:
 alias gm='podman run --rm -it -v .:/root -w /root marcoparrone/graphicsmagick gm'
 ```
 
-then run the gm command, for example:
+then, after reloading the file, run the gm command, for example:
 
 ```sh
 gm convert reminder.png -resize 128x128 reminder-128.png
