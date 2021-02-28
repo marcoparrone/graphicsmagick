@@ -1,10 +1,8 @@
 # graphicsmagick
 
-A docker container containing GraphicsMagick.
+The GraphicsMagick graphic tool, packaged in a docker container.
 
-See http://www.graphicsmagick.org for more informations about GraphicsMagick.
-
-This is a convenient way of using GraphicsMagick without installing it and all of its dependencies.
+See http://www.graphicsmagick.org for more information about GraphicsMagick.
 
 ## Prerequisites
 
