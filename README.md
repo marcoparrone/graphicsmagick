@@ -16,11 +16,11 @@ If you use docker, replace docker=podman with docker=docker in the Makefile.
 
 ## Installation
 
+```sh
 git clone git@github.com:marcoparrone/graphicsmagick.git
-
 cd graphicsmagick
-
 make
+```
 
 ## Usage
 
