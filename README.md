@@ -25,7 +25,7 @@ make
 Add in your ~/.bash_aliases or in your ~/.bashrc:
 
 ```sh
-alias gm='podman run --rm -it -v .:/root -w /root marcoparrone/graphicsmagick gm'
+alias gm='podman run --rm -it -v .:/root/workdir -w /root/workdir marcoparrone/graphicsmagick gm'
 ```
 
 then, after reloading the file, run the gm command, for example:
